@@ -1,0 +1,14 @@
+{
+        "name": "priya/contact",
+        "description": "A contact form package for laravel",
+        "authors": [{
+            "name": "Priya",
+            "email": "priya@email.com"
+        }],
+        "require": {},
+        "autoload": {
+	        "psr-4": {
+	            "Priya\\Contact\\": "src/"
+	        }
+    	}
+}
